@@ -3,8 +3,8 @@ hello
 
 just some updates
 <<<<<<< HEAD
-I hope this isn't much of a problem
+ this is bound to cause trouble 2
 =======
- this is bound to cause trouble
+ this is bound to cause trouble 1
+>>>>>>> verybad
  
->>>>>>> very-bad
